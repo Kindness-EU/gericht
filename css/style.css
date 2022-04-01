@@ -2364,7 +2364,7 @@ body::after {
     }
   }
 }
-@media (max-width: 47.99875em) {
+@media (max-width: 29.99875em) {
   .card-people__image {
     justify-self: stretch;
     margin-right: 20px;
@@ -2393,7 +2393,7 @@ body::after {
   width: 100%;
   object-fit: cover;
 }
-@media (min-width: 47.99875em) {
+@media (min-width: 29.99875em) {
   .card-people__image img {
     max-height: 11.875rem;
     max-width: 11.875rem;
